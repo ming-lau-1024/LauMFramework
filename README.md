@@ -1,0 +1,2 @@
+# LauMFramework
+Simple API framework
